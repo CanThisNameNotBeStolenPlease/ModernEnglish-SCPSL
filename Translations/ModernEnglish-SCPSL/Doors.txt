@@ -1,6 +1,6 @@
-<color=green><size=113>O</color></size>
-<color=#07A2FF><size=113>C</color></size>
-<color=orange><size=113>M</color></size>
+<color=green><size=113>🔓</color></size>
+<color=#07A2FF><size=113>🔐</color></size>
+<color=orange><size=113>⏪⏩</color></size>
 <size=100><color=red>🔒</color></size>
 <size=90><color=red>💥</color></size>
 <size=40><color=red>X</color></size>
