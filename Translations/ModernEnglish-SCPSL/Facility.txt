@@ -6,7 +6,7 @@ START ROUND
 SUMMARY
 <color=red>Cancel</color>
 I N V E N T O R Y
-<color=yellow>Brightness (Can't fix size)</color>\n<color=#808080>█</color><color=#6e6b6b>█</color><color=#595757>█</color><color=#454343>█</color><color=#363434>█</color><color=#242222>█</color><color=#141414>█</color><color=#080707>█</color><color=#000000>█</color>
+<color=yellow>Brightness</color>\n<color=#808080>█</color><color=#6e6b6b>█</color><color=#595757>█</color><color=#454343>█</color><color=#363434>█</color><color=#242222>█</color><color=#141414>█</color><color=#080707>█</color><color=#000000>█</color>
 <color=orange>Settings</color>
 <color=red>DISCONNECT</color>
 ALPHA WARHEAD IS DISABLED
