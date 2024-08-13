@@ -7,7 +7,9 @@ Custom translations for SCP: SL gameplay.
   
 </div>
 
-## This repo is pretty stale, it's currently just an archive.
+~~This repo is pretty stale, it's currently just an archive.~~
+
+## I'm making a reborn of this.
 
 Credit to Northwood Studios for the translation workflow checks, issue template, PR template, contributing guidelines, issue tags and more.
 
