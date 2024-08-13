@@ -11,7 +11,9 @@ Custom translations for SCP: SL gameplay.
 
 ## I'm making a reborn of this.
 
-Credit to Northwood Studios for the translation workflow checks, issue template, PR template, contributing guidelines, issue tags and more.
+Credit to Northwood Studios for the translation workflow checks, issue template, PR template, contributing guidelines, issue tags and more. <br>
+
+Credit to [SirNanos](https://github.com/SirNanos) for the original repo that can be seen [here](https://github.com/SirNanos/ModernEnglish-SCPSL)
 
 
 # Installation Manual
