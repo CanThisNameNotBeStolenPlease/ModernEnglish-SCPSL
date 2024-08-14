@@ -1,9 +1,6 @@
 # KNOWN ERRORS:
 
-- Brightness bug in-game settings (Can't fix), Followed by other in-game settings.
-- SCP-049-2 uses the same death message as SCP-049
 - A strange modification to a text makes the "Press [Inventory_key] to change attachments while spectating." appear as "###"
-- Tutorial Spawn error
 
 --------------------
 ME. Translations Changelog [PB]: 2023-03-06 (THIS)
