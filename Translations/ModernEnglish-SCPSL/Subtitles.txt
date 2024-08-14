@@ -9,7 +9,7 @@
 <color=#00bcd4>[🔪] Contained</color>:<color=#FFFF7CFF> Science Personnel. [♀]</color>
 <color=#00bcd4>[🔪] Contained</color>:<color=#FF8E00> Class-D Personnel. [♀]</color>
 <color=#00bcd4>[🔪] Contained</color><color=#008F1e> Chaos Insurgency. [♀]</color>
-<color=#f00>SCP-[scp] </color>
+<color=#f00>SCP-[scp]</color>
 <color=#00bcd4>[🔪] Contained! </color> <color=#0096FF>MTF-</color><color=#00bcd4>unknown. [?]</color>
 <color=#00bcd4>[🔪] Contained! </color> <color=#0096FF>MTF-[designation] [♀]</color>.
 <color=#FDFF6D>[🔪] Terminated!: Decontamination Sequence. [☁]</color><size=1>when you are trapped</size>
