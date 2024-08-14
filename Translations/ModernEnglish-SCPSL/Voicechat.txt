@@ -18,5 +18,6 @@ Microphone Capture
 <color=#D2D4C1>Return</color>
 Press "[key]" and navigate to "Settings" to adjust.
 <color=#FF0><size=10>If you're interested in these custom text files and want to obtain it yourself, go to https://discord.gg/YpZ8UBtzrq !</color> | Mute Alive people
-<color=#00FF58>Press your inventory key to edit firearm attachments.</color> | Mute Spectators
-translation test voice chat
+<color=#00FF58>Mute Spectators
+<color=#00FF58>Mute Lobby
+<color=#00FF58>Mute summary global chat
