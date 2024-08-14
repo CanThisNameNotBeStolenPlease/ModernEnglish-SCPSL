@@ -28,9 +28,6 @@ filmmaker
 
 https://www.google.com/search?q=hex+color&rlz=1C1GCEB_enAU952AU952&oq=hex+color&aqs=chrome..69i57j69i59l3j0i271j69i65j69i60.1127j0j9&sourceid=chrome&ie=UTF-8s
 
-\n<size=10><color=#00FF58>Civillian Class</color></size>
-\n<size=10><color=#D2D4C1>Military Class</color></size>
-\n<size=10><color=#F00>Anomaly Class</color></size>
 
 <color=#F00>T</color><color=#f50707>h</color><color=#eb0c0c>e</color> <color=#e31212>S</color><color=#db1616>c</color><color=#d11b1b>u</color><color=#c41d1d>l<color=#bd2424>p</color><color=#b02525>t</color><color=#a62828>u</color><color=#9c2828>r</color><color=#8f2828>e</color></color> <color=#F00>(SCP-173)</color>\n<size=10><color=#F00>Anomaly Class</color></size>
 <color=#FF8E00>I</color><color=#fa8d05>n</color><color=#ed8809>m</color><color=#e68710>a</color><color=#db8314>t</color><color=#d1811b>e</color> <color=#FF8E00>(Class-D)</color>\n<size=10><color=#00FF58>Civillian Class</color></size>
