@@ -1,13 +1,13 @@
-<color=yellow>✦Updates & News</color>
-<color=orange>⊕Play</color>
-<color=#FF8E00>☸Settings</color>
-<color=#008F1e>✘Quit</color>
+<color=yellow>✦ Updates & News</color>
+<color=orange>⊕ Play</color>
+<color=#FF8E00>☸ Settings</color>
+<color=#008F1e>✘ Quit</color>
 <color=#999999>Social Media</color>
-<color=#FFFF7CFF>✇Public Servers</color>
-<color=#f00>❤Fav. Servers</color>
-<color=blue>✪fficial Servers</color>
-<color=#A2A2A2>⍈Server History</color>
-<color=#999999>☺Friends Playing</color>
+<color=#FFFF7CFF>✇ Public Servers</color>
+<color=#f00>❤ Fav. Servers</color>
+<color=blue>✪ Official Servers</color>
+<color=#A2A2A2>⍈ Server History</color>
+<color=#999999>☺ Friends Playing</color>
 <color=#FF8E00>⌕ Search for a server..</color>
 <color=#FFFF7CFF>Make Server</color>
 <color=#462J83>Re-Join\nServer</color>
@@ -64,7 +64,7 @@
 <color=#FFFF7CFF>Screen Resolution</color>
 <color=#999999>Hide IP</color>
 Modern English SL Translations:\nWelcome {username}!
-<color=#FFFF00>✎Credits</color>
+<color=#FFFF00>✎ Credits</color>
 <color=green>Authenticating...</color>\n<color=#FF0>This may take a while..</color>
 <color=#f0u72n>Connecting to central servers...</color>
 <color=green>Connection established</color>
@@ -91,4 +91,4 @@ For playing our game!
 <color=orange>Volumetric Lights</color>
 <color=#50C878>Bloom</color>
 <color=#F00>Toggle CASSIE subtitles</color>
-ⓘGameplay Guide
+ⓘ Gameplay Guide
