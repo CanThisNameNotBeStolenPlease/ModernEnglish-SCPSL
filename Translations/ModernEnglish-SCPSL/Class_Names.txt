@@ -20,14 +20,15 @@
 <color=#9fba84>C</color><color=#8bab6c>h</color><color=#66965d>a</color><color=#56854d>o</color><color=#45703d>s</color> <color=#417038>I</color><color=#3d6e34>n</color><color=#386e2e>s</color><color=#337027>u</color><color=#2f7023>r</color><color=#29691d>g</color><color=#256b18>e</color><color=#257317>n</color><color=#227a12>c</color><color=#21800f>y</color><color=#008f40> Weapons-man</color>\n<size=10><color=#D2D4C1>Military Class</color></size>
 <color=#9fba84>C</color><color=#8bab6c>h</color><color=#66965d>a</color><color=#56854d>o</color><color=#45703d>s</color> <color=#417038>I</color><color=#3d6e34>n</color><color=#386e2e>s</color><color=#337027>u</color><color=#2f7023>r</color><color=#29691d>g</color><color=#256b18>e</color><color=#257317>n</color><color=#227a12>c</color><color=#21800f>y</color><color=#008f40> Engineer</color>)\n<size=10><color=#D2D4C1>Military Class</color></size>
 overwatch
-
+filmmaker
+<color=#FF0000>T</color><color=#F90202>h</color><color=#F30404>e</color> <color=#E70808>C</color><color=#E10A0A>h</color><color=#DB0C0C>i</color><color=#D50E0E>l</color><color=#CF1010>l</color><color=#C91212>y</color> <color=#BD1616>S</color><color=#B71818>k</color><color=#B11A1A>e</color><color=#AB1C1C>l</color><color=#A51E1E>e</color><color=#9F2020>t</color><color=#992222>o</color><color=#932424>n</color>\n<size=10><color=#F00>Anomaly Class</color></size>
 
 
 </color><color=>
 
 https://www.google.com/search?q=hex+color&rlz=1C1GCEB_enAU952AU952&oq=hex+color&aqs=chrome..69i57j69i59l3j0i271j69i65j69i60.1127j0j9&sourceid=chrome&ie=UTF-8s
 
-\n<size=10><color=#00FF58>Civillian Classs</color></size>
+\n<size=10><color=#00FF58>Civillian Class</color></size>
 \n<size=10><color=#D2D4C1>Military Class</color></size>
 \n<size=10><color=#F00>Anomaly Class</color></size>
 
