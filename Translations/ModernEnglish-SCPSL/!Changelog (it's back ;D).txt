@@ -10,9 +10,7 @@ ME. Translations Changelog [PB]: 2024-08-14 (THIS)
 - Fixed a version corruption
 
 --------------------
-
---------------------
-ME. Translations Changelog [PB]: 2023-03-06 (THIS)
+ME. Translations Changelog [PB]: 2023-03-06
 
 - Fixed tutorial color error
 - Corrected painkiller info
