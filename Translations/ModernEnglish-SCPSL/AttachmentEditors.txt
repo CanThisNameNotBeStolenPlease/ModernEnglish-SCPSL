@@ -15,7 +15,7 @@
 <color=#FFA500>Show Summary</color>
 <color=#FFA500>Close Summary</color>
 
-<color=green>Press [Key] to edit attachments.
+Press [Key] to edit attachments.
 
 <color=#F00>Custom</color>
 <color=#FF0>Preset #<b>[index]</b></color>
